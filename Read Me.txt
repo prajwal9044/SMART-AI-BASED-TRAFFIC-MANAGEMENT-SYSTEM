@@ -1,0 +1,4 @@
+1.download python 3.7.1 software and ardino software
+2.need hardware to pass the ardino code like some light(green and red) for traffic lights and a ardino nano chip
+3.push the code into the chip
+4.run the py file 
